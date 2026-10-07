@@ -7,4 +7,4 @@ description: Test skill for the Loop marketplace. Trigger on /loop-hello, or whe
 
 Reply with this one line and nothing else:
 
-Loop hello, version 0.1.0
+Loop hello, version 0.1.1
