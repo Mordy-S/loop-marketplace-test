@@ -1,0 +1,14 @@
+{
+  "name": "loop-marketplace-test",
+  "description": "Test marketplace for Loop plugin delivery",
+  "owner": {
+    "name": "Loop"
+  },
+  "plugins": [
+    {
+      "name": "loop-hello",
+      "source": "./plugins/loop-hello",
+      "description": "Test plugin. Says which version is installed."
+    }
+  ]
+}
